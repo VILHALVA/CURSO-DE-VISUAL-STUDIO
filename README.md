@@ -2,17 +2,9 @@
 👨‍⚖️O VISUAL STUDIO 2022 É UMA VERSÃO DO AMBIENTE DE DESENVOLVIMENTO INTEGRADO (IDE) DA MICROSOFT, UTILIZADO PRINCIPALMENTE PARA DESENVOLVIMENTO DE SOFTWARE. ELE OFERECE FERRAMENTAS E RECURSOS PARA PROGRAMAÇÃO, DEPURAÇÃO, TESTE E IMPLANTAÇÃO DE APLICATIVOS EM VÁRIAS PLATAFORMAS.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=VISUAL%20STUDIO%202022)
-
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022) 
 [![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-C-SHARP)
-<br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PLpQCWggDn8Sx3T2jjN6utkVl-he7JGDxO&si=CGQ4yPQhbsuJhOi5)
-
-<img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxr4dH.og8l0VK7ZT_RROCKfE9DsKvMyNlXcrGNhjyVdZVDnlLtjhiH3XudrX9fWg5nNgvv79ZqX1qx9y7dQ0d_Y-&format=source&h=464" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 O Visual Studio 2022 é a versão mais recente do ambiente de desenvolvimento integrado (IDE) da Microsoft. Este ambiente é utilizado para o desenvolvimento de software em várias linguagens de programação, como C#, VB.NET, C++, F#, Python, entre outras.
