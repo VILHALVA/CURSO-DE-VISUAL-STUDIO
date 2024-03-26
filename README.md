@@ -74,5 +74,6 @@ Cada versão do Visual Studio trouxe novos recursos, ferramentas e aprimoramento
 - [VEJA A DOCUMENTAÇÃO](https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-C-SHARP)
 - [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:VISUAL-STUDIO-2022)
 
 
