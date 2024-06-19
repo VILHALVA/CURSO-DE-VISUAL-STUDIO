@@ -1,10 +1,10 @@
-# CURSO DE VISUAL STUDIO 2022
-👨‍⚖️O VISUAL STUDIO 2022 É UMA VERSÃO DO AMBIENTE DE DESENVOLVIMENTO INTEGRADO (IDE) DA MICROSOFT, UTILIZADO PRINCIPALMENTE PARA DESENVOLVIMENTO DE SOFTWARE. ELE OFERECE FERRAMENTAS E RECURSOS PARA PROGRAMAÇÃO, DEPURAÇÃO, TESTE E IMPLANTAÇÃO DE APLICATIVOS EM VÁRIAS PLATAFORMAS.
+# CURSO DE VISUAL STUDIO 
+👨‍⚖️O VISUAL STUDIO É UMA VERSÃO DO AMBIENTE DE DESENVOLVIMENTO INTEGRADO (IDE) DA MICROSOFT, UTILIZADO PRINCIPALMENTE PARA DESENVOLVIMENTO DE SOFTWARE. ELE OFERECE FERRAMENTAS E RECURSOS PARA PROGRAMAÇÃO, DEPURAÇÃO, TESTE E IMPLANTAÇÃO DE APLICATIVOS EM VÁRIAS PLATAFORMAS.
 
 <img src="FOTO.png" align="center" width="400"> <br>
 
 ## CONCEITO:
-O Visual Studio 2022 é a versão mais recente do ambiente de desenvolvimento integrado (IDE) da Microsoft. Este ambiente é utilizado para o desenvolvimento de software em várias linguagens de programação, como C#, VB.NET, C++, F#, Python, entre outras.
+O Visual Studio é a versão mais recente do ambiente de desenvolvimento integrado (IDE) da Microsoft. Este ambiente é utilizado para o desenvolvimento de software em várias linguagens de programação, como C#, VB.NET, C++, F#, Python, entre outras.
 
 Algumas características notáveis do Visual Studio 2022 incluem:
 
@@ -45,7 +45,7 @@ Cada versão do Visual Studio trouxe novos recursos, ferramentas e aprimoramento
 
 ## CARACTERISTICAS:
 ### POSITIVAS:
-1. **Interface Amigável:** O Visual Studio 2022 mantém a tradição de oferecer uma interface de usuário intuitiva e amigável, facilitando o desenvolvimento de software.
+1. **Interface Amigável:** O Visual Studio mantém a tradição de oferecer uma interface de usuário intuitiva e amigável, facilitando o desenvolvimento de software.
 
 2. **Suporte Multilinguagem:** Oferece suporte a várias linguagens de programação, como C#, C++, F#, Python, e outras, tornando-o uma escolha versátil para desenvolvedores que trabalham com diferentes tecnologias.
 
@@ -60,11 +60,11 @@ Cada versão do Visual Studio trouxe novos recursos, ferramentas e aprimoramento
 ### NEGATIVAS:
 1. **Requisitos de Sistema:** Pode exigir hardware mais robusto, especialmente ao lidar com projetos grandes, o que pode ser um desafio para desenvolvedores com sistemas mais antigos.
 
-2. **Tamanho de Instalação:** O Visual Studio 2022 é conhecido por ser uma aplicação pesada, ocupando considerável espaço em disco durante a instalação.
+2. **Tamanho de Instalação:** O Visual Studio é conhecido por ser uma aplicação pesada, ocupando considerável espaço em disco durante a instalação.
 
 3. **Personalização Complexa:** Embora seja altamente personalizável, a configuração avançada da IDE pode ser complexa para iniciantes e pode levar algum tempo para se acostumar.
 
-4. **Licenciamento:** A versão completa do Visual Studio 2022 pode ser cara para desenvolvedores individuais, embora haja opções mais leves e gratuitas, como o Visual Studio Code.
+4. **Licenciamento:** A versão completa do Visual Studio pode ser cara para desenvolvedores individuais, embora haja opções mais leves e gratuitas, como o Visual Studio Code.
 
 5. **Performance em Projetos Grandes:** Ao lidar com projetos muito grandes, alguns desenvolvedores podem enfrentar lentidão na inicialização e na execução, embora melhorias constantes sejam implementadas nas atualizações.
 
@@ -73,7 +73,7 @@ Cada versão do Visual Studio trouxe novos recursos, ferramentas e aprimoramento
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-C-SHARP)
-- [VEJA A SINTAXE](./SINTAXE.md)
-- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:VISUAL-STUDIO-2022)
+- [VEJA O MANUAL](./MANUAL.md)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:VISUAL-STUDIO)
 
 
