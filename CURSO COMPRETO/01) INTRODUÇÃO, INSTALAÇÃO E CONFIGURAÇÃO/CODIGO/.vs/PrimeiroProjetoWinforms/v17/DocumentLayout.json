@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Downloads\\GITHUB\\PROGRAMACAO\\01-CURSOS COMPLETOS\\CURSO DE VISUAL STUDIO\\CURSO COMPRETO\\CODIGO\\PrimeiroProjetoWinforms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD0B2E99-8491-4195-B484-1ED894F43391}|PrimeiroProjetoWinforms\\PrimeiroProjetoWinforms.csproj|c:\\users\\hp\\downloads\\github\\programacao\\01-cursos completos\\curso de visual studio\\curso compreto\\codigo\\primeiroprojetowinforms\\primeiroprojetowinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD0B2E99-8491-4195-B484-1ED894F43391}|PrimeiroProjetoWinforms\\PrimeiroProjetoWinforms.csproj|solutionrelative:primeiroprojetowinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\GITHUB\\PROGRAMACAO\\01-CURSOS COMPLETOS\\CURSO DE VISUAL STUDIO\\CURSO COMPRETO\\CODIGO\\PrimeiroProjetoWinforms\\PrimeiroProjetoWinforms\\Form1.cs",
+              "RelativeDocumentMoniker": "PrimeiroProjetoWinforms\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\GITHUB\\PROGRAMACAO\\01-CURSOS COMPLETOS\\CURSO DE VISUAL STUDIO\\CURSO COMPRETO\\CODIGO\\PrimeiroProjetoWinforms\\PrimeiroProjetoWinforms\\Form1.cs [Projeto]",
+              "RelativeToolTip": "PrimeiroProjetoWinforms\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T00:39:27.172Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
